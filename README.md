@@ -1,141 +1,144 @@
-<!-- Animated intro -->
+<!-- 🌸 ULTRA-AESTHETIC CLEAN PORTFOLIO -->
+
+<h1 align="center">✨ Hi, I'm <b>Dikeledi Maholo</b> ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dikeledi+Maholo+%F0%9F%91%8B;Business+Intelligence+Student;Data+Analyst+%7C+ML+Enthusiast;Building+AI+and+Analytics+for+social+impact" alt="Typing SVG" />
+  <b>Business Intelligence Student • Data Analyst • AI & ML Enthusiast</b><br>
+  📍 Pretoria, South Africa  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business%20Intelligence-FFC857?style=for-the-badge&logo=google-analytics&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-1D3557?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-38BDF8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
----
-
-## 🌟 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-- 🎓 Final-year **Business Intelligence** student @ Belgium Campus  
-- 🧠 Love working with **data, machine learning, NLP, and dashboards**  
-- 🤖 Building projects that combine **AI + analytics + real-world impact**  
-- 🌱 Currently growing in:
-  - Advanced ML & model evaluation  
-  - Data storytelling with Power BI  
-  - Cloud & scalable data systems  
-- 🌍 Based in **South Africa**, open to **remote / hybrid** opportunities  
-- 💬 I enjoy explaining technical concepts in a **simple, visual way**  
-
-    </td>
-    <td width="40%" valign="top">
-
-  <strong>Quick Snapshot</strong> ✨  
-  • NTT Bursary Recipient  
-  • Selected for NTT Saturday School  
-  • Top of Class in Matric  
-  • Peer Tutor (Stats, Maths, PM)  
-  • Interested in: AI for education, health & social good  
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://i.imgur.com/VzJb8br.png" width="55%">
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🌷 About Me  
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Description</th>
-  </tr>
+I am a dedicated **final-year Computing student** specialising in **Business Intelligence, Data Analytics and Machine Learning**.
 
-  <tr>
-    <td><a href="https://github.com/Grace-96/PowerBI-Performance-Report-2023">Power BI Performance Dashboard</a></td>
-    <td>Power BI, DAX, Data Modelling</td>
-    <td>Interactive dashboard analysing 2023 YTD vs PYTD performance, GP%, and account segmentation with a live embedded Power BI report.</td>
-  </tr>
+I love transforming raw data into meaningful insights and designing intelligent solutions that solve real problems.  
+My interests include **predictive analytics**, **interactive dashboards**, and **AI-powered applications**.
 
-  <tr>
-    <td><a href="https://github.com/soulgoesflying/MLG382-Guided-Project">BrightPath Student Success Prediction</a></td>
-    <td>Python, Scikit-Learn, TensorFlow, Dash</td>
-    <td>Predicts at-risk students using ML (Logistic Regression, Random Forest, XGBoost, NN) with a web app to support early intervention.</td>
-  </tr>
+✨ I enjoy creating:  
+- 📊 Insightful dashboards (Power BI, Excel, Dash)  
+- 🤖 Predictive and classification models  
+- 🛢 End-to-end data workflows (Python, SQL, NoSQL)  
+- 🧪 Clean, well-structured analytical reports  
 
-  <tr>
-    <td><a href="https://github.com/Joseph-Pereira/SentimentMachineLearning">Sentiment Analysis ML Pipeline</a></td>
-    <td>Python, NLTK, Scikit-Learn</td>
-    <td>End-to-end NLP pipeline classifying Amazon reviews (Positive / Neutral / Negative) with ~92% accuracy and visual outputs.</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Grace-96/dikeledimaholo">SA DHS Health Analytics</a></td>
-    <td>R, Power BI, Excel, CRISP-DM</td>
-    <td>Analysed 18 years of DHS data, built predictive models (R² &gt; 0.95) and dashboards forecasting maternal & child health indicators.</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Grace-96/StudentManagerPro">Student Manager System</a></td>
-    <td>C#, SQL, WinForms</td>
-    <td>Desktop app enabling CRUD operations and modular management of student records.</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Grace-96/Ecommerce-NoSQL">E-Commerce NoSQL Backend</a></td>
-    <td>MongoDB, Node.js, Express</td>
-    <td>Distributed NoSQL design for products, users and transactions with indexing for performance and scalability.</td>
-  </tr>
-</table>
+🌱 I aim to use **Data + AI** to improve decision-making and enhance user experiences across industries.
 
 ---
 
-## 📊 GitHub Highlights
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grace-96&show_icons=true&theme=radical" alt="GitHub stats" />
+### 🕶️ **AI-Powered VR Interview Simulator (2025)**  
+*A major academic project using VR + AI, built to improve interview readiness.*
+
+- Designed for **Meta Quest 3** (using VR interaction)  
+- Tracks **body language, gesture movement & posture**  
+- Provides real-time **feedback** on confidence & communication  
+- Includes an **NLP-based evaluator** for spoken answers & tone  
+- Built as part of a university research initiative  
+
+✔ VR is **only a project**, not part of your brand — placed cleanly here.
+
+---
+
+### 🎓 **BrightPath Student Success Predictor (2025)**  
+A predictive analytics model for identifying at-risk students.
+
+- Uses Logistic Regression, Random Forest & XGBoost  
+- Built a full **Dash web app** for user interaction  
+- Feature engineering + evaluation metrics  
+- Supports early academic intervention  
+
+---
+
+### 🛒 **E-Commerce NoSQL System (MongoDB)**  
+A scalable NoSQL database for large e-commerce datasets.
+
+- Optimized schema design  
+- Product, user & transaction collections  
+- Fast queries + indexing for analytics  
+
+---
+
+### 💬 **Customer Review Sentiment Analysis (NLP)**  
+End-to-end ML pipeline for text sentiment classification.
+
+- Data cleaning + tokenization  
+- Logistic Regression model  
+- Insights for business & product improvement  
+
+---
+
+# 🛠️ Tech Stack (Aesthetic Theme)
+
+### 🌸 Programming & Scripting  
+<p>
+  <img src="https://img.shields.io/badge/Python-fde2ff?style=for-the-badge&logo=python&logoColor=5A5A5A"/>
+  <img src="https://img.shields.io/badge/R-d4e5ff?style=for-the-badge&logo=r&logoColor=276DC3"/>
+  <img src="https://img.shields.io/badge/SQL-e6d4ff?style=for-the-badge&logo=postgresql&logoColor=371977"/>
+  <img src="https://img.shields.io/badge/JavaScript-fff1d6?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-96&layout=compact&theme=radical" alt="Top languages" />
+### 🌸 Data Analytics & BI Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-fff7d1?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Tableau-fceaff?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/Excel-d8f5d2?style=for-the-badge&logo=microsoftexcel&logoColor=1D6F42"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-fad4c1?style=for-the-badge&logo=googleanalytics&logoColor=fff"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Grace-96&theme=radical" alt="GitHub streak" />
+### 🌸 Machine Learning & AI  
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ffe8d6?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ffd6cc?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Keras-ffd6e7?style=for-the-badge&logo=keras&logoColor=D00000"/>
+  <img src="https://img.shields.io/badge/Pandas-e6d4ff?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-d7edff?style=for-the-badge&logo=numpy&logoColor=013243"/>
+</p>
+
+### 🌸 Databases  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-e0ffef?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <img src="https://img.shields.io/badge/MySQL-d7ecff?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-e7d8ff?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+</p>
+
+### 🌸 Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/Git-fce4ec?style=for-the-badge&logo=git&logoColor=F05033"/>
+  <img src="https://img.shields.io/badge/GitHub-dcd6f7?style=for-the-badge&logo=github&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Jupyter-fff2cc?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/VS_Code-e3f8ff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Dash-f7e6ff?style=for-the-badge&logo=plotly&logoColor=5635df"/>
+</p>
+
+### 🌸 Web & Backend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-f7d6d0?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-d0e1ff?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-e7dbff?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
-
+# 🤝 Let’s Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dikeledi-maholo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-b39ddb?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
   <a href="mailto:dikeledigrace550@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-f8bbd0?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
-  <a href="https://app.powerbi.com/reportEmbed?reportId=c2e3c3e0-bfca-4010-b9a1-99a4ac0e611e&autoAuth=true&ctid=ea1a909b-6600-4a25-82a5-0c6ed7d0513b">
-    <img src="https://img.shields.io/badge/View%20PowerBI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <a href="https://github.com/Grace-96">
+    <img src="https://img.shields.io/badge/GitHub_Profile-d6ccff?style=for-the-badge&logo=github&logoColor=000"/>
   </a>
 </p>
 
 <p align="center">
-  ✨ <em>Thanks for visiting my profile — feel free to explore my projects or reach out for collaboration, internships, or junior roles!</em> ✨
+  ✨ <i>Thank you for visiting my profile!</i> ✨
 </p>
