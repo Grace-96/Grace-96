@@ -51,8 +51,7 @@ and leadership in computing studies.
 Chosen for elite technical acceleration program focusing on  
 software engineering, mathematics, algorithms, and data science foundations.
 
-> *This achievement represents your discipline, technical promise, and  
-your ability to excel in high-performance engineering environments.*
+
 
 ---
 
