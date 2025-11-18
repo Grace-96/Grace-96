@@ -41,8 +41,7 @@ I don’t just work with data — I weaponize information to solve real problems
 
 <!-- ==== NTT SECTION (IMPORTANT) ==== -->
 
-## 🛡️ NTT Recognition (Crucial Achievement)
-
+## 🛡️ NTT Recognition 
 **🎖️ NTT Bursary Recipient**  
 Awarded for academic excellence, potential in AI, problem-solving strength,  
 and leadership in computing studies.
@@ -57,7 +56,7 @@ software engineering, mathematics, algorithms, and data science foundations.
 
 <!-- ==== PROJECTS ==== -->
 
-## 🧪 Featured Projects (Dark Sci-Fi Edition)
+## 🧪 Featured Projects 
 
 ### 🕶️ **AI-Powered VR Interview Simulator (Meta Quest 3)**
 A futuristic VR system that evaluates interview performance using:
@@ -126,7 +125,14 @@ End-to-end NLP classification system:
   <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=F97316"/>
   <img src="https://img.shields.io/badge/Keras-1E1B4B?style=for-the-badge&logo=keras&logoColor=F43F5E"/>
   <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/NLTK-0F172A?style=for-the-badge&logo=nltk&logoColor=22C55E"/>
+  <img src="https://img.shields.io/badge/XGBoost-1F2937?style=for-the-badge&logo=xgboost&logoColor=F97316"/>
+  <img src="https://img.shields.io/badge/RandomForest-111827?style=for-the-badge&logo=treehouse&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-1E1B4B?style=for-the-badge&logo=protocols&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/NLP_Algorithms-1E293B?style=for-the-badge&logo=apache&logoColor=FACC15"/>
 </p>
+
 
 ### 🛢 Databases  
 <p align="center">
